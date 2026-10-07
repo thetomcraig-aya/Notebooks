@@ -1,0 +1,130 @@
+================================================================================
+  WFAI HISTORICAL DATA QUALITY REPORT
+  Generated: 2026-06-29 10:28:48
+================================================================================
+
+  File : wellspanhealth_workload_202601150000_cleaned.csv
+
+================================================================================
+  1. SCHEMA
+================================================================================
+
+  Total Rows    : 2,156
+  Total Columns : 6
+  Columns       : Type, Facility, Unit, VolDate, VolHour, Volume
+  [PASS] Schema matches expected columns.
+
+================================================================================
+  2. DATE & HOUR COVERAGE
+================================================================================
+
+  Date Range         : 01/13/2026 → 01/15/2026
+  Span (inclusive)   : 3 days (0.1 months)
+  Unique Dates       : 3
+  Calendar Gap Days  : 0  (entire dataset)
+
+  First day hours    : 24 (0–23)
+  Last day hours     : 24 (0–23)
+
+  Hour Range         : 0–23
+  [PASS] Invalid Hours : 0
+
+================================================================================
+  3. VOLUME STATISTICS
+================================================================================
+
+  Min            : 1
+  Max            : 101
+  Mean           : 21.44
+  Median         : 17.0
+  Null Count     : 0
+  Zero Count     : 0  (0.0% of rows)
+
+================================================================================
+  4. CONTENT BREAKDOWN
+================================================================================
+
+  Record Types:
+    Census                        :        1,940 rows
+    Census - NURSERY              :           72 rows
+    Census - POSTPARTUM           :           72 rows
+    Census - T4 FLEX              :           72 rows
+
+  Facilities (1):
+    1100-York Hospital                      :      2,156 rows
+
+  Unique Units : 27
+
+================================================================================
+  5. PER-(TYPE, UNIT) COVERAGE & GAPS
+================================================================================
+
+  Type                   Unit                                                    Min          Max           Days  MissDay   MissHr       Rows
+  ────────────────────── ─────────────────────────────────────────────────────── ─────────── ─────────── ─────  ───────  ───────  ─────────
+  Census                 1100-15001 YH Oper Room - Advanced Procedural Suite     01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-20600 YH Coronary Care Unts - T2 - Cardio          01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-21500 YH ICU - Surg                                01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-21501 YH ICU - Med                                 01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-22700 YH Level III - Neonatal Intens Care Nursry - 01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-23300 YH Womens Svcs LDRPN GYN - Labor and Deliver 01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-23601 YH Med Unts - 5 South                        01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-23602 YH Med Unts - 5 Main                         01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-23603 YH Med Unts - 4 Main                         01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-23604 YH Med Unts - 4 Southwest                    01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-23605 YH Med Unts - N3A                            01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-23607 YH Med Unts - 5 East                         01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-24500 YH Onco Unts - Nursing Unt 7S                01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-24801 YH Ortho Neuro Surg -T3                      01/13/2026   01/15/2026       3        0        0        140
+  Census                 1100-25700 YH Pediatric Unts - General                  01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-26002 YH Progress Care IMCU - T2                   01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-26003 YH Progress Care IMCU - 4 Southwest Med      01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-26600 YH Spec ICU - Neuroscience                   01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-26601 YH Spec ICU - O H Intens Care Unt ICU        01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-26602 YH Spec ICU - Cardiac Intens Care Unt ICU    01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-26603 YH Spec ICU - Trauma Surg Intens Care Unt IC 01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-26900 YH Surg Unts - 6 South Nursing Unit          01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-26901 YH Surg Unts - 6 Main Nursing Unit           01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-32326 YH Emerg Dept - Emerg Transitional Care Unit 01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-32327 YH Emerg Dept - General                      01/13/2026   01/15/2026       3        0        0         72
+  Census                 1100-50000 YH Adult Psych Unts - InPtnt Pgm - 4301      01/13/2026   01/15/2026       3        0        0         72
+  Census - NURSERY       1100-23000 YH Mother Baby Unts - Maternity Newborn Unit 01/13/2026   01/15/2026       3        0        0         72
+  Census - POSTPARTUM    1100-23000 YH Mother Baby Unts - Maternity Newborn Unit 01/13/2026   01/15/2026       3        0        0         72
+  Census - T4 FLEX       1100-23000 YH Mother Baby Unts - Maternity Newborn Unit 01/13/2026   01/15/2026       3        0        0         72
+
+--------------------------------------------------------------------------------
+  5a. UNITS WITH MISSING CALENDAR DAYS
+--------------------------------------------------------------------------------
+
+    [PASS] No internal date gaps for any (Type, Unit) combination.
+
+================================================================================
+  6. DUPLICATES & KEY INTEGRITY
+================================================================================
+
+  Null Check (key columns):
+
+    [PASS] Type      :          0 nulls
+    [PASS] Facility  :          0 nulls
+    [PASS] Unit      :          0 nulls
+    [PASS] VolDate   :          0 nulls
+    [PASS] VolHour   :          0 nulls
+    [PASS] Volume    :          0 nulls
+
+    [PASS] Full-Row Duplicates :          0
+    [FLAG] Duplicate Keys      :         68  (same Type+Unit+Date+Hour)
+
+    Top affected units:
+           136 rows — 1100-24801 YH Ortho Neuro Surg -T3
+
+================================================================================
+  7. SUMMARY
+================================================================================
+
+  Status: FLAG — 1 issue(s) require attention
+
+    1. 68 rows share a (Type,Unit,Date,Hour) key with another row — suggests sub-locations rolled up under one Unit string
+
+================================================================================
+  END OF REPORT
+================================================================================
+

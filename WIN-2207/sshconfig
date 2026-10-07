@@ -1,0 +1,10 @@
+
+Host winnow-dev-wus3-rg-1-winnow-dev-wus3-vm-projects-1
+	User tom.craig@ayahealthcare.com
+	HostName 10.189.4.5
+	CertificateFile "/Users/tomcraig/dev/mcz_notebooks_and_queries/WIN-2207/az_ssh_config/winnow-dev-wus3-rg-1-winnow-dev-wus3-vm-projects-1/id_rsa.pub-aadcert.pub"
+	IdentityFile "/Users/tomcraig/dev/mcz_notebooks_and_queries/WIN-2207/az_ssh_config/winnow-dev-wus3-rg-1-winnow-dev-wus3-vm-projects-1/id_rsa"
+Host 10.189.4.5
+	User tom.craig@ayahealthcare.com
+	CertificateFile "/Users/tomcraig/dev/mcz_notebooks_and_queries/WIN-2207/az_ssh_config/winnow-dev-wus3-rg-1-winnow-dev-wus3-vm-projects-1/id_rsa.pub-aadcert.pub"
+	IdentityFile "/Users/tomcraig/dev/mcz_notebooks_and_queries/WIN-2207/az_ssh_config/winnow-dev-wus3-rg-1-winnow-dev-wus3-vm-projects-1/id_rsa"

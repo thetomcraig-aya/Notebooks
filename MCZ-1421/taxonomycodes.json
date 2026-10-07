@@ -1,0 +1,2252 @@
+﻿{
+  "2086S0129X": {
+    "taxonomy_code": "2086S0129X",
+    "role": "Physician",
+    "specialty": "Surgery",
+    "sub_specialty": "Vascular Surgery"
+  },
+  "207RN0300X": {
+    "taxonomy_code": "207RN0300X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Nephrology"
+  },
+  "207NI0002X": {
+    "taxonomy_code": "207NI0002X",
+    "role": "Physician",
+    "specialty": "Dermatology",
+    "sub_specialty": "Clinical & Laboratory Dermatological Immunology"
+  },
+  "152WL0500X": {
+    "taxonomy_code": "152WL0500X",
+    "role": "Physician",
+    "specialty": "Optometrist",
+    "sub_specialty": "Low Vision Rehabilitation"
+  },
+  "207RA0401X": {
+    "taxonomy_code": "207RA0401X",
+    "role": "Physician",
+    "specialty": "Addiction Medicine",
+    "sub_specialty": "Addiction Medicine"
+  },
+  "204D00000X": {
+    "taxonomy_code": "204D00000X",
+    "role": "Physician",
+    "specialty": "Neuromusculoskeletal Medicine & OMM",
+    "sub_specialty": "Neuromusculoskeletal Medicine & OMM"
+  },
+  "103TB0200X": {
+    "taxonomy_code": "103TB0200X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Cognitive & Behavioral"
+  },
+  "207ZP0104X": {
+    "taxonomy_code": "207ZP0104X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Chemical Pathology"
+  },
+  "364SX0204X": {
+    "taxonomy_code": "364SX0204X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Oncology, Pediatrics"
+  },
+  "152WX0102X": {
+    "taxonomy_code": "152WX0102X",
+    "role": "Physician",
+    "specialty": "Optometrist",
+    "sub_specialty": "Occupational Vision"
+  },
+  "2086S0122X": {
+    "taxonomy_code": "2086S0122X",
+    "role": "Physician",
+    "specialty": "Surgery",
+    "sub_specialty": "Plastic and Reconstructive Surgery"
+  },
+  "364SR0400X": {
+    "taxonomy_code": "364SR0400X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Rehabilitation"
+  },
+  "207QA0000X": {
+    "taxonomy_code": "207QA0000X",
+    "role": "Physician",
+    "specialty": "Family Medicine",
+    "sub_specialty": "Adolescent Medicine"
+  },
+  "207ND0101X": {
+    "taxonomy_code": "207ND0101X",
+    "role": "Physician",
+    "specialty": "Dermatology",
+    "sub_specialty": "MOHS-Micrographic Surgery"
+  },
+  "207PH0002X": {
+    "taxonomy_code": "207PH0002X",
+    "role": "Physician",
+    "specialty": "Hospice and Palliative Medicine",
+    "sub_specialty": "Emergency Medicine"
+  },
+  "364SF0001X": {
+    "taxonomy_code": "364SF0001X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Family Health"
+  },
+  "364SP1700X": {
+    "taxonomy_code": "364SP1700X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Perinatal"
+  },
+  "2083T0002X": {
+    "taxonomy_code": "2083T0002X",
+    "role": "Physician",
+    "specialty": "Preventive Medicine",
+    "sub_specialty": "Medical Toxicology"
+  },
+  "207SG0201X": {
+    "taxonomy_code": "207SG0201X",
+    "role": "Physician",
+    "specialty": "Clinical Genetics",
+    "sub_specialty": "Clinical Genetics (M.D.)"
+  },
+  "207R00000X": {
+    "taxonomy_code": "207R00000X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Internal Medicine"
+  },
+  "133VN1401X": {
+    "taxonomy_code": "133VN1401X",
+    "role": "Diet & Nutrition",
+    "specialty": "Dietician, Registered",
+    "sub_specialty": "Pediatric Critical Care Nutrition"
+  },
+  "207UN0903X": {
+    "taxonomy_code": "207UN0903X",
+    "role": "Physician",
+    "specialty": "Nuclear Medicine",
+    "sub_specialty": "In Vivo & In Vitro Nuclear Medicine"
+  },
+  "2080T0002X": {
+    "taxonomy_code": "2080T0002X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Medical Toxicology"
+  },
+  "2084B0002X": {
+    "taxonomy_code": "2084B0002X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Bariatric Medicine"
+  },
+  "111NR0400X": {
+    "taxonomy_code": "111NR0400X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Rehabilitation"
+  },
+  "2251H1300X": {
+    "taxonomy_code": "2251H1300X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Human Factors"
+  },
+  "207RA0002X": {
+    "taxonomy_code": "207RA0002X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Adult Congenital Heart Disease"
+  },
+  "2084F0202X": {
+    "taxonomy_code": "2084F0202X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Forensic Psychiatry"
+  },
+  "208M00000X": {
+    "taxonomy_code": "208M00000X",
+    "role": "Physician",
+    "specialty": "Hospitalist",
+    "sub_specialty": "Hospitalist"
+  },
+  "2080P0008X": {
+    "taxonomy_code": "2080P0008X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Neurodevelopmental Disabilities"
+  },
+  "364SL0600X": {
+    "taxonomy_code": "364SL0600X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Long-term Care"
+  },
+  "367H00000X": {
+    "taxonomy_code": "367H00000X",
+    "role": "Nurses",
+    "specialty": "Anesthesiologist Assistant",
+    "sub_specialty": "Anesthesiologist Assistant"
+  },
+  "207ZI0100X": {
+    "taxonomy_code": "207ZI0100X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Immunopathology"
+  },
+  "207QB0002X": {
+    "taxonomy_code": "207QB0002X",
+    "role": "Physician",
+    "specialty": "Family Medicine",
+    "sub_specialty": "Bariatric Medicine"
+  },
+  "2251X0800X": {
+    "taxonomy_code": "2251X0800X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Orthopedic"
+  },
+  "2082S0105X": {
+    "taxonomy_code": "2082S0105X",
+    "role": "Physician",
+    "specialty": "Surgery, Plastic",
+    "sub_specialty": "Surgery of the Hand"
+  },
+  "207RH0003X": {
+    "taxonomy_code": "207RH0003X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Hematology & Oncology"
+  },
+  "363A00000X": {
+    "taxonomy_code": "363A00000X",
+    "role": "Physician Assistant",
+    "specialty": "Physician Assistant",
+    "sub_specialty": "Physician Assistant"
+  },
+  "207RG0100X": {
+    "taxonomy_code": "207RG0100X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Gastroenterology"
+  },
+  "2251P0200X": {
+    "taxonomy_code": "2251P0200X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Pediatrics"
+  },
+  "2083A0300X": {
+    "taxonomy_code": "2083A0300X",
+    "role": "Physician",
+    "specialty": "Addiction Medicine",
+    "sub_specialty": "Addiction Medicine"
+  },
+  "103TF0200X": {
+    "taxonomy_code": "103TF0200X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Forensic"
+  },
+  "207X00000X": {
+    "taxonomy_code": "207X00000X",
+    "role": "Physician",
+    "specialty": "Surgery, Orthopedic",
+    "sub_specialty": "Surgery, Orthopedic"
+  },
+  "213ER0200X": {
+    "taxonomy_code": "213ER0200X",
+    "role": "Physician",
+    "specialty": "Podiatrist",
+    "sub_specialty": "Radiology"
+  },
+  "163WC3500X": {
+    "taxonomy_code": "163WC3500X",
+    "role": "Nurses",
+    "specialty": "Registered Nurse",
+    "sub_specialty": "Cardiac Rehabilitation"
+  },
+  "103TC0700X": {
+    "taxonomy_code": "103TC0700X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Clinical"
+  },
+  "207RA0001X": {
+    "taxonomy_code": "207RA0001X",
+    "role": "Physician",
+    "specialty": "Advanced Heart Failure and Transplant Cardiology",
+    "sub_specialty": "Advanced Heart Failure and Transplant Cardiology"
+  },
+  "363LC1500X": {
+    "taxonomy_code": "363LC1500X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Community Health"
+  },
+  "231H00000X": {
+    "taxonomy_code": "231H00000X",
+    "role": "Physician",
+    "specialty": "Audiologist",
+    "sub_specialty": "Audiologist"
+  },
+  "207RI0008X": {
+    "taxonomy_code": "207RI0008X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Hepatology"
+  },
+  "225XL0004X": {
+    "taxonomy_code": "225XL0004X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Low Vision"
+  },
+  "363LA2100X": {
+    "taxonomy_code": "363LA2100X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Acute Care"
+  },
+  "2086H0002X": {
+    "taxonomy_code": "2086H0002X",
+    "role": "Physician",
+    "specialty": "Surgery",
+    "sub_specialty": "Hospice and Palliative Medicine"
+  },
+  "207ZH0000X": {
+    "taxonomy_code": "207ZH0000X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Hematology"
+  },
+  "207RX0202X": {
+    "taxonomy_code": "207RX0202X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Medical Oncology"
+  },
+  "2251S0007X": {
+    "taxonomy_code": "2251S0007X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Sports"
+  },
+  "207Q00000X": {
+    "taxonomy_code": "207Q00000X",
+    "role": "Physician",
+    "specialty": "Family Medicine",
+    "sub_specialty": "Family Medicine"
+  },
+  "106S00000X": {
+    "taxonomy_code": "106S00000X",
+    "role": "Behavioral Health",
+    "specialty": "Technician",
+    "sub_specialty": "Technician"
+  },
+  "364SX0106X": {
+    "taxonomy_code": "364SX0106X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Occupational Health"
+  },
+  "207QA0401X": {
+    "taxonomy_code": "207QA0401X",
+    "role": "Physician",
+    "specialty": "Addiction Medicine",
+    "sub_specialty": "Addiction Medicine"
+  },
+  "208800000X": {
+    "taxonomy_code": "208800000X",
+    "role": "Physician",
+    "specialty": "Urology",
+    "sub_specialty": "Urology"
+  },
+  "213ES0000X": {
+    "taxonomy_code": "213ES0000X",
+    "role": "Physician",
+    "specialty": "Podiatrist",
+    "sub_specialty": "Sports Medicine"
+  },
+  "207QA0505X": {
+    "taxonomy_code": "207QA0505X",
+    "role": "Physician",
+    "specialty": "Family Medicine",
+    "sub_specialty": "Adult Medicine"
+  },
+  "225XP0019X": {
+    "taxonomy_code": "225XP0019X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Physical Rehabilitation"
+  },
+  "103TC1900X": {
+    "taxonomy_code": "103TC1900X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Counseling"
+  },
+  "106E00000X": {
+    "taxonomy_code": "106E00000X",
+    "role": "Behavioral Health",
+    "specialty": "Assistant Behavior Analyst",
+    "sub_specialty": "Assistant Behavior Analyst"
+  },
+  "364SP0811X": {
+    "taxonomy_code": "364SP0811X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist, Psychiatric",
+    "sub_specialty": "Mental Health, Chronically Ill"
+  },
+  "207RS0012X": {
+    "taxonomy_code": "207RS0012X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Sleep Medicine"
+  },
+  "2080P0203X": {
+    "taxonomy_code": "2080P0203X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Critical Care Medicine"
+  },
+  "207RR0500X": {
+    "taxonomy_code": "207RR0500X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Rheumatology"
+  },
+  "207RB0002X": {
+    "taxonomy_code": "207RB0002X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Bariatric Medicine"
+  },
+  "2086S0102X": {
+    "taxonomy_code": "2086S0102X",
+    "role": "Physician",
+    "specialty": "Surgery",
+    "sub_specialty": "Surgical Critical Care"
+  },
+  "207YX0905X": {
+    "taxonomy_code": "207YX0905X",
+    "role": "Physician",
+    "specialty": "Otolaryngology",
+    "sub_specialty": "Otolaryngology"
+  },
+  "207VX0000X": {
+    "taxonomy_code": "207VX0000X",
+    "role": "Physician",
+    "specialty": "Obstetrics & Gynecology",
+    "sub_specialty": "Obstetrics"
+  },
+  "103TA0700X": {
+    "taxonomy_code": "103TA0700X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Adult Development & Aging"
+  },
+  "207P00000X": {
+    "taxonomy_code": "207P00000X",
+    "role": "Physician",
+    "specialty": "Emergency Medicine",
+    "sub_specialty": "Emergency Medicine"
+  },
+  "103TR0400X": {
+    "taxonomy_code": "103TR0400X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Rehabilitation"
+  },
+  "208D00000X": {
+    "taxonomy_code": "208D00000X",
+    "role": "Physician",
+    "specialty": "General Practice",
+    "sub_specialty": "General Practice"
+  },
+  "2084P0800X": {
+    "taxonomy_code": "2084P0800X",
+    "role": "Physician",
+    "specialty": "Psychiatry",
+    "sub_specialty": "Psychiatry"
+  },
+  "225XN1300X": {
+    "taxonomy_code": "225XN1300X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Neurorehabilitation"
+  },
+  "2085P0229X": {
+    "taxonomy_code": "2085P0229X",
+    "role": "Physician",
+    "specialty": "Radiology",
+    "sub_specialty": "Pediatric Radiology"
+  },
+  "2081N0008X": {
+    "taxonomy_code": "2081N0008X",
+    "role": "Physician",
+    "specialty": "Physical Medicine & Rehabilitation",
+    "sub_specialty": "Neuromuscular Medicine"
+  },
+  "207RG0300X": {
+    "taxonomy_code": "207RG0300X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Geriatric Medicine"
+  },
+  "213EG0000X": {
+    "taxonomy_code": "213EG0000X",
+    "role": "Physician",
+    "specialty": "Podiatrist",
+    "sub_specialty": "General Practice"
+  },
+  "208200000X": {
+    "taxonomy_code": "208200000X",
+    "role": "Physician",
+    "specialty": "Surgery, Plastic",
+    "sub_specialty": "Surgery, Plastic"
+  },
+  "2084P0802X": {
+    "taxonomy_code": "2084P0802X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Addiction Psychiatry"
+  },
+  "207YS0123X": {
+    "taxonomy_code": "207YS0123X",
+    "role": "Physician",
+    "specialty": "Otolaryngology",
+    "sub_specialty": "Facial Plastic Surgery"
+  },
+  "363LP1700X": {
+    "taxonomy_code": "363LP1700X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Perinatal"
+  },
+  "364SP0809X": {
+    "taxonomy_code": "364SP0809X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist, Psychiatric",
+    "sub_specialty": "Mental Health, Adult"
+  },
+  "2083P0500X": {
+    "taxonomy_code": "2083P0500X",
+    "role": "Physician",
+    "specialty": "Preventive Medicine",
+    "sub_specialty": "Occupational Environmental Medicine"
+  },
+  "2084S0010X": {
+    "taxonomy_code": "2084S0010X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Sports Medicine"
+  },
+  "207VX0201X": {
+    "taxonomy_code": "207VX0201X",
+    "role": "Physician",
+    "specialty": "Obstetrics & Gynecology",
+    "sub_specialty": "Gynecologic Oncology"
+  },
+  "2084P0005X": {
+    "taxonomy_code": "2084P0005X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Neurodevelopmental Disabilities"
+  },
+  "225XE0001X": {
+    "taxonomy_code": "225XE0001X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Environmental Modification"
+  },
+  "207RS0010X": {
+    "taxonomy_code": "207RS0010X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Sports Medicine"
+  },
+  "207YP0228X": {
+    "taxonomy_code": "207YP0228X",
+    "role": "Physician",
+    "specialty": "Otolaryngology",
+    "sub_specialty": "Pediatric Otolaryngology"
+  },
+  "103TH0004X": {
+    "taxonomy_code": "103TH0004X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Health"
+  },
+  "103TM1800X": {
+    "taxonomy_code": "103TM1800X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Intellectual & Developmental Disabilities"
+  },
+  "207XP3100X": {
+    "taxonomy_code": "207XP3100X",
+    "role": "Physician",
+    "specialty": "Surgery, Orthopedic",
+    "sub_specialty": "Pediatric Orthopedic Surgery"
+  },
+  "207VF0040X": {
+    "taxonomy_code": "207VF0040X",
+    "role": "Physician",
+    "specialty": "Obstetrics & Gynecology",
+    "sub_specialty": "Female Pelvic Medicine and Reconstructive Surgery"
+  },
+  "208600000X": {
+    "taxonomy_code": "208600000X",
+    "role": "Physician",
+    "specialty": "Surgery",
+    "sub_specialty": "Surgery"
+  },
+  "207VG0400X": {
+    "taxonomy_code": "207VG0400X",
+    "role": "Physician",
+    "specialty": "Obstetrics & Gynecology",
+    "sub_specialty": "Gynecology"
+  },
+  "363LS0200X": {
+    "taxonomy_code": "363LS0200X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "School"
+  },
+  "2080P0210X": {
+    "taxonomy_code": "2080P0210X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Nephrology"
+  },
+  "103T00000X": {
+    "taxonomy_code": "103T00000X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Psychologist"
+  },
+  "103TP0016X": {
+    "taxonomy_code": "103TP0016X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Prescribing (Medical)"
+  },
+  "2084N0402X": {
+    "taxonomy_code": "2084N0402X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Child Neurology"
+  },
+  "207RC0200X": {
+    "taxonomy_code": "207RC0200X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Critical Care Medicine"
+  },
+  "213EP0504X": {
+    "taxonomy_code": "213EP0504X",
+    "role": "Physician",
+    "specialty": "Podiatrist",
+    "sub_specialty": "Public Medicine"
+  },
+  "225100000X": {
+    "taxonomy_code": "225100000X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Physical Therapist"
+  },
+  "208C00000X": {
+    "taxonomy_code": "208C00000X",
+    "role": "Physician",
+    "specialty": "Surgery, Colon & Rectal",
+    "sub_specialty": "Surgery, Colon & Rectal"
+  },
+  "213EP1101X": {
+    "taxonomy_code": "213EP1101X",
+    "role": "Physician",
+    "specialty": "Podiatrist",
+    "sub_specialty": "Primary Podiatric Medicine"
+  },
+  "2080A0000X": {
+    "taxonomy_code": "2080A0000X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Adolescent Medicine"
+  },
+  "363LX0106X": {
+    "taxonomy_code": "363LX0106X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Occupational Health"
+  },
+  "204C00000X": {
+    "taxonomy_code": "204C00000X",
+    "role": "Physician",
+    "specialty": "Neuromusculoskeletal Medicine",
+    "sub_specialty": "Sports Medicine"
+  },
+  "231HA2500X": {
+    "taxonomy_code": "231HA2500X",
+    "role": "Physician",
+    "specialty": "Audiologist",
+    "sub_specialty": "Assistive Technology Supplier"
+  },
+  "2084P2900X": {
+    "taxonomy_code": "2084P2900X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Pain Medicine"
+  },
+  "2081P0004X": {
+    "taxonomy_code": "2081P0004X",
+    "role": "Physician",
+    "specialty": "Physical Medicine & Rehabilitation",
+    "sub_specialty": "Spinal Cord Injury Medicine"
+  },
+  "2086S0120X": {
+    "taxonomy_code": "2086S0120X",
+    "role": "Physician",
+    "specialty": "Surgery",
+    "sub_specialty": "Pediatric Surgery"
+  },
+  "364SN0800X": {
+    "taxonomy_code": "364SN0800X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Neuroscience"
+  },
+  "207ZB0001X": {
+    "taxonomy_code": "207ZB0001X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Blood Banking & Transfusion Medicine"
+  },
+  "364SE1400X": {
+    "taxonomy_code": "364SE1400X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Ethics"
+  },
+  "122300000X": {
+    "taxonomy_code": "122300000X",
+    "role": "Physician",
+    "specialty": "Dentist",
+    "sub_specialty": "Dentist"
+  },
+  "2080H0002X": {
+    "taxonomy_code": "2080H0002X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Hospice and Palliative Medicine"
+  },
+  "111N00000X": {
+    "taxonomy_code": "111N00000X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Chiropractor"
+  },
+  "2084A2900X": {
+    "taxonomy_code": "2084A2900X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Neurocritical Care"
+  },
+  "207N00000X": {
+    "taxonomy_code": "207N00000X",
+    "role": "Physician",
+    "specialty": "Dermatology",
+    "sub_specialty": "Dermatology"
+  },
+  "207SG0203X": {
+    "taxonomy_code": "207SG0203X",
+    "role": "Physician",
+    "specialty": "Medical Genetics",
+    "sub_specialty": "Clinical Molecular Genetics"
+  },
+  "207XS0117X": {
+    "taxonomy_code": "207XS0117X",
+    "role": "Physician",
+    "specialty": "Surgery, Orthopedic",
+    "sub_specialty": "Orthopedic Surgery of the Spine"
+  },
+  "2081P0010X": {
+    "taxonomy_code": "2081P0010X",
+    "role": "Physician",
+    "specialty": "Physical Medicine & Rehabilitation",
+    "sub_specialty": "Pediatric Rehabilitation Medicine"
+  },
+  "364SX0200X": {
+    "taxonomy_code": "364SX0200X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Oncology"
+  },
+  "207SG0205X": {
+    "taxonomy_code": "207SG0205X",
+    "role": "Physician",
+    "specialty": "Medical Genetics",
+    "sub_specialty": "Ph.D. Medical Genetics"
+  },
+  "103TW0100X": {
+    "taxonomy_code": "103TW0100X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Women"
+  },
+  "174400000X": {
+    "taxonomy_code": "174400000X",
+    "role": "Physician",
+    "specialty": "Specialist",
+    "sub_specialty": "Specialist"
+  },
+  "2080P0208X": {
+    "taxonomy_code": "2080P0208X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Infectious Diseases"
+  },
+  "2083X0100X": {
+    "taxonomy_code": "2083X0100X",
+    "role": "Physician",
+    "specialty": "Preventive Medicine",
+    "sub_specialty": "Occupational Medicine"
+  },
+  "364SE0003X": {
+    "taxonomy_code": "364SE0003X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Emergency"
+  },
+  "2251H1200X": {
+    "taxonomy_code": "2251H1200X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Hand"
+  },
+  "2084D0003X": {
+    "taxonomy_code": "2084D0003X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Diagnostic Neuroimaging"
+  },
+  "207XX0801X": {
+    "taxonomy_code": "207XX0801X",
+    "role": "Physician",
+    "specialty": "Orthopaedic Surgery",
+    "sub_specialty": "Orthopedic Trauma"
+  },
+  "207ZC0500X": {
+    "taxonomy_code": "207ZC0500X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Cytopathology"
+  },
+  "207RM1200X": {
+    "taxonomy_code": "207RM1200X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Magnetic Resonance Imaging (MRI)"
+  },
+  "103TC2200X": {
+    "taxonomy_code": "103TC2200X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Clinical Child & Adolescent"
+  },
+  "207RA0201X": {
+    "taxonomy_code": "207RA0201X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Allergy & Immunology"
+  },
+  "207LP2900X": {
+    "taxonomy_code": "207LP2900X",
+    "role": "Physician",
+    "specialty": "Anesthesiology",
+    "sub_specialty": "Pain Medicine"
+  },
+  "2085N0904X": {
+    "taxonomy_code": "2085N0904X",
+    "role": "Physician",
+    "specialty": "Radiology",
+    "sub_specialty": "Neuroradiology"
+  },
+  "207U00000X": {
+    "taxonomy_code": "207U00000X",
+    "role": "Physician",
+    "specialty": "Nuclear Medicine",
+    "sub_specialty": "Nuclear Medicine"
+  },
+  "225XE1200X": {
+    "taxonomy_code": "225XE1200X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Ergonomics"
+  },
+  "103TM1700X": {
+    "taxonomy_code": "103TM1700X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Men & Masculinity"
+  },
+  "363LA2200X": {
+    "taxonomy_code": "363LA2200X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Adult Health"
+  },
+  "213ES0103X": {
+    "taxonomy_code": "213ES0103X",
+    "role": "Physician",
+    "specialty": "Podiatrist",
+    "sub_specialty": "Foot & Ankle Surgery"
+  },
+  "364SP0807X": {
+    "taxonomy_code": "364SP0807X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist, Psychiatric",
+    "sub_specialty": "Mental Health, Child & Adolescent"
+  },
+  "207RH0000X": {
+    "taxonomy_code": "207RH0000X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Hematology"
+  },
+  "364SA2100X": {
+    "taxonomy_code": "364SA2100X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Acute Care"
+  },
+  "207RT0003X": {
+    "taxonomy_code": "207RT0003X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Transplant Hepatology"
+  },
+  "103TP0814X": {
+    "taxonomy_code": "103TP0814X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Psychoanalysis"
+  },
+  "207LH0002X": {
+    "taxonomy_code": "207LH0002X",
+    "role": "Physician",
+    "specialty": "Hospice and Palliative Medicine",
+    "sub_specialty": "Anesthesiology"
+  },
+  "207UN0901X": {
+    "taxonomy_code": "207UN0901X",
+    "role": "Physician",
+    "specialty": "Nuclear Medicine",
+    "sub_specialty": "Nuclear Cardiology"
+  },
+  "2080S0010X": {
+    "taxonomy_code": "2080S0010X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Sports Medicine"
+  },
+  "363LF0000X": {
+    "taxonomy_code": "363LF0000X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Family"
+  },
+  "207NS0135X": {
+    "taxonomy_code": "207NS0135X",
+    "role": "Physician",
+    "specialty": "Dermatology",
+    "sub_specialty": "Procedural"
+  },
+  "207SM0001X": {
+    "taxonomy_code": "207SM0001X",
+    "role": "Physician",
+    "specialty": "Medical Genetics",
+    "sub_specialty": "Molecular Genetic Pathology"
+  },
+  "2085R0204X": {
+    "taxonomy_code": "2085R0204X",
+    "role": "Physician",
+    "specialty": "Radiology",
+    "sub_specialty": "Vascular and Interventional Radiology"
+  },
+  "363AM0700X": {
+    "taxonomy_code": "363AM0700X",
+    "role": "Physician Assistant",
+    "specialty": "Medical",
+    "sub_specialty": "Medical"
+  },
+  "207L00000X": {
+    "taxonomy_code": "207L00000X",
+    "role": "Physician",
+    "specialty": "Anesthesiology",
+    "sub_specialty": "Anesthesiology"
+  },
+  "207PT0002X": {
+    "taxonomy_code": "207PT0002X",
+    "role": "Physician",
+    "specialty": "Emergency Medicine",
+    "sub_specialty": "Medical Toxicology"
+  },
+  "103TA0400X": {
+    "taxonomy_code": "103TA0400X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Addiction (Substance Abuse Disorder)"
+  },
+  "111NN0400X": {
+    "taxonomy_code": "111NN0400X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Neurology"
+  },
+  "133VN1301X": {
+    "taxonomy_code": "133VN1301X",
+    "role": "Diet & Nutrition",
+    "specialty": "Dietician, Registered",
+    "sub_specialty": "Oncology Nutrition"
+  },
+  "207WX0120X": {
+    "taxonomy_code": "207WX0120X",
+    "role": "Physician",
+    "specialty": "Ophthalmology",
+    "sub_specialty": "Cornea and External Diseases Specialist"
+  },
+  "364ST0500X": {
+    "taxonomy_code": "364ST0500X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Transplantation"
+  },
+  "207W00000X": {
+    "taxonomy_code": "207W00000X",
+    "role": "Physician",
+    "specialty": "Ophthalmology",
+    "sub_specialty": "Ophthalmology"
+  },
+  "364SC2300X": {
+    "taxonomy_code": "364SC2300X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Chronic Care"
+  },
+  "111NT0100X": {
+    "taxonomy_code": "111NT0100X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Thermography"
+  },
+  "103TS0200X": {
+    "taxonomy_code": "103TS0200X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "School"
+  },
+  "207KA0200X": {
+    "taxonomy_code": "207KA0200X",
+    "role": "Physician",
+    "specialty": "Allergy and Immunology",
+    "sub_specialty": "Allergy"
+  },
+  "363LC0200X": {
+    "taxonomy_code": "363LC0200X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Critical Care Medicine"
+  },
+  "2085D0003X": {
+    "taxonomy_code": "2085D0003X",
+    "role": "Physician",
+    "specialty": "Radiology",
+    "sub_specialty": "Diagnostic Neuroimaging"
+  },
+  "207QS1201X": {
+    "taxonomy_code": "207QS1201X",
+    "role": "Physician",
+    "specialty": "Family Medicine",
+    "sub_specialty": "Sleep Medicine"
+  },
+  "2080P0202X": {
+    "taxonomy_code": "2080P0202X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Cardiology"
+  },
+  "363LP2300X": {
+    "taxonomy_code": "363LP2300X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Primary Care"
+  },
+  "207ZM0300X": {
+    "taxonomy_code": "207ZM0300X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Medical Microbiology"
+  },
+  "364SA2200X": {
+    "taxonomy_code": "364SA2200X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Adult Health"
+  },
+  "2080P0006X": {
+    "taxonomy_code": "2080P0006X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "DevelopmentalBehavioral Pediatrics"
+  },
+  "364SP0200X": {
+    "taxonomy_code": "364SP0200X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Pediatrics"
+  },
+  "111NN1001X": {
+    "taxonomy_code": "111NN1001X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Nutrition"
+  },
+  "207KI0005X": {
+    "taxonomy_code": "207KI0005X",
+    "role": "Physician",
+    "specialty": "Allergy and Immunology",
+    "sub_specialty": "Clinical & Laboratory Immunology"
+  },
+  "208000000X": {
+    "taxonomy_code": "208000000X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatrics"
+  },
+  "364SC0200X": {
+    "taxonomy_code": "364SC0200X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Critical Care Medicine"
+  },
+  "207VH0002X": {
+    "taxonomy_code": "207VH0002X",
+    "role": "Physician",
+    "specialty": "Hospice and Palliative Medicine",
+    "sub_specialty": "Obstetrics & Gynecology"
+  },
+  "2084S0012X": {
+    "taxonomy_code": "2084S0012X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Sleep Medicine"
+  },
+  "2251C2600X": {
+    "taxonomy_code": "2251C2600X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Cardiopulmonary"
+  },
+  "2080P0205X": {
+    "taxonomy_code": "2080P0205X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Endocrinology"
+  },
+  "207YX0602X": {
+    "taxonomy_code": "207YX0602X",
+    "role": "Physician",
+    "specialty": "Otolaryngology",
+    "sub_specialty": "Otolaryngic Allergy"
+  },
+  "208100000X": {
+    "taxonomy_code": "208100000X",
+    "role": "Physician",
+    "specialty": "Physical Medicine & Rehabilitation",
+    "sub_specialty": "Physical Medicine & Rehabilitation"
+  },
+  "207RI0001X": {
+    "taxonomy_code": "207RI0001X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Clinical & Laboratory Immunology"
+  },
+  "2251G0304X": {
+    "taxonomy_code": "2251G0304X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Geriatrics"
+  },
+  "225X00000X": {
+    "taxonomy_code": "225X00000X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Occupational Therapist"
+  },
+  "2084P0301X": {
+    "taxonomy_code": "2084P0301X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Respiratory, Developmental, Rehabilitative and Restorative Service , Brain Injury Medicine"
+  },
+  "229N00000X": {
+    "taxonomy_code": "229N00000X",
+    "role": "Therapist",
+    "specialty": "Anaplastologist",
+    "sub_specialty": "Anaplastologist"
+  },
+  "207VB0002X": {
+    "taxonomy_code": "207VB0002X",
+    "role": "Physician",
+    "specialty": "Obstetrics & Gynecology",
+    "sub_specialty": "Bariatric Medicine"
+  },
+  "2084B0040X": {
+    "taxonomy_code": "2084B0040X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Behavioral Neurology & Neuropsychiatry"
+  },
+  "213ES0131X": {
+    "taxonomy_code": "213ES0131X",
+    "role": "Physician",
+    "specialty": "Podiatrist",
+    "sub_specialty": "Foot Surgery"
+  },
+  "364SN0000X": {
+    "taxonomy_code": "364SN0000X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Neonatal"
+  },
+  "103TP2701X": {
+    "taxonomy_code": "103TP2701X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Group Psychotherapy"
+  },
+  "207RC0000X": {
+    "taxonomy_code": "207RC0000X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Cardiovascular Disease"
+  },
+  "225XR0403X": {
+    "taxonomy_code": "225XR0403X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Driving and Community Mobility"
+  },
+  "363LN0005X": {
+    "taxonomy_code": "363LN0005X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Neonatal, Critical Care"
+  },
+  "2083S0010X": {
+    "taxonomy_code": "2083S0010X",
+    "role": "Physician",
+    "specialty": "Preventive Medicine",
+    "sub_specialty": "Sports Medicine"
+  },
+  "133VN1501X": {
+    "taxonomy_code": "133VN1501X",
+    "role": "Diet & Nutrition",
+    "specialty": "Dietician, Registered, Nutrition",
+    "sub_specialty": "Sports Dietetics"
+  },
+  "208G00000X": {
+    "taxonomy_code": "208G00000X",
+    "role": "Physician",
+    "specialty": "Surgery, Thoracic",
+    "sub_specialty": "Cardiothoracic Vascular Surgery"
+  },
+  "2251E1300X": {
+    "taxonomy_code": "2251E1300X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Electrophysiology, Clinical"
+  },
+  "363LP0200X": {
+    "taxonomy_code": "363LP0200X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Pediatrics"
+  },
+  "364SP0808X": {
+    "taxonomy_code": "364SP0808X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist, Psychiatric",
+    "sub_specialty": "Mental Health"
+  },
+  "207WX0109X": {
+    "taxonomy_code": "207WX0109X",
+    "role": "Physician",
+    "specialty": "Ophthalmology",
+    "sub_specialty": "Neuro-ophthalmology"
+  },
+  "207VE0102X": {
+    "taxonomy_code": "207VE0102X",
+    "role": "Physician",
+    "specialty": "Obstetrics & Gynecology",
+    "sub_specialty": "Reproductive Endocrinology"
+  },
+  "2081P0301X": {
+    "taxonomy_code": "2081P0301X",
+    "role": "Physician",
+    "specialty": "Physical Medicine & Rehabilitation",
+    "sub_specialty": "Brain Injury"
+  },
+  "2083B0002X": {
+    "taxonomy_code": "2083B0002X",
+    "role": "Physician",
+    "specialty": "Preventive Medicine",
+    "sub_specialty": "Obesity Medicine"
+  },
+  "2084N0400X": {
+    "taxonomy_code": "2084N0400X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Neurology"
+  },
+  "225XF0002X": {
+    "taxonomy_code": "225XF0002X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Feeding, Eating & Swallowing"
+  },
+  "2086S0105X": {
+    "taxonomy_code": "2086S0105X",
+    "role": "Physician",
+    "specialty": "Surgery",
+    "sub_specialty": "Surgery of the Hand"
+  },
+  "367500000X": {
+    "taxonomy_code": "367500000X",
+    "role": "CRNA",
+    "specialty": "Certified Registered Nurse Anesthetist (CRNA)",
+    "sub_specialty": "Certified Registered Nurse Anesthetist (CRNA)"
+  },
+  "111NR0200X": {
+    "taxonomy_code": "111NR0200X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Radiology"
+  },
+  "111NI0900X": {
+    "taxonomy_code": "111NI0900X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Internist"
+  },
+  "207ZD0900X": {
+    "taxonomy_code": "207ZD0900X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Dermapathology"
+  },
+  "207T00000X": {
+    "taxonomy_code": "207T00000X",
+    "role": "Physician",
+    "specialty": "Surgery, Neurological",
+    "sub_specialty": "Surgery, Neurological"
+  },
+  "1223G0001X": {
+    "taxonomy_code": "1223G0001X",
+    "role": "Physician",
+    "specialty": "General Practice",
+    "sub_specialty": "General Practice"
+  },
+  "207PP0204X": {
+    "taxonomy_code": "207PP0204X",
+    "role": "Physician",
+    "specialty": "Emergency Medicine",
+    "sub_specialty": "Pediatric"
+  },
+  "103TF0000X": {
+    "taxonomy_code": "103TF0000X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Family"
+  },
+  "2080T0004X": {
+    "taxonomy_code": "2080T0004X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Transplant Hepatology"
+  },
+  "207RH0002X": {
+    "taxonomy_code": "207RH0002X",
+    "role": "Physician",
+    "specialty": "Hospice and Palliative Medicine",
+    "sub_specialty": "Internal Medicine"
+  },
+  "207K00000X": {
+    "taxonomy_code": "207K00000X",
+    "role": "Physician",
+    "specialty": "Allergy and Immunology",
+    "sub_specialty": "Allergy and Immunology"
+  },
+  "133VN1101X": {
+    "taxonomy_code": "133VN1101X",
+    "role": "Diet & Nutrition",
+    "specialty": "Dietician, Registered",
+    "sub_specialty": "Gerontological Nutrition"
+  },
+  "207QG0300X": {
+    "taxonomy_code": "207QG0300X",
+    "role": "Physician",
+    "specialty": "Family Medicine",
+    "sub_specialty": "Geriatric Medicine"
+  },
+  "364S00000X": {
+    "taxonomy_code": "364S00000X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Clinical Nurse Specialist"
+  },
+  "207YS0012X": {
+    "taxonomy_code": "207YS0012X",
+    "role": "Physician",
+    "specialty": "Otolaryngology",
+    "sub_specialty": "Sleep Medicine"
+  },
+  "364SH1100X": {
+    "taxonomy_code": "364SH1100X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Holistic"
+  },
+  "207RI0011X": {
+    "taxonomy_code": "207RI0011X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Interventional Cardiology"
+  },
+  "225XH1200X": {
+    "taxonomy_code": "225XH1200X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Hand"
+  },
+  "207YX0007X": {
+    "taxonomy_code": "207YX0007X",
+    "role": "Physician",
+    "specialty": "Otolaryngology",
+    "sub_specialty": "Plastic Surgery within the Head & Neck"
+  },
+  "364SP0813X": {
+    "taxonomy_code": "364SP0813X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist, Psychiatric",
+    "sub_specialty": "Mental Health, Geropsychiatric"
+  },
+  "207XX0005X": {
+    "taxonomy_code": "207XX0005X",
+    "role": "Physician",
+    "specialty": "Surgery, Orthopedic",
+    "sub_specialty": "Sports Medicine"
+  },
+  "207QS0010X": {
+    "taxonomy_code": "207QS0010X",
+    "role": "Physician",
+    "specialty": "Family Medicine",
+    "sub_specialty": "Sports Medicine"
+  },
+  "207ZF0201X": {
+    "taxonomy_code": "207ZF0201X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Forensic Pathology"
+  },
+  "2082S0099X": {
+    "taxonomy_code": "2082S0099X",
+    "role": "Physician",
+    "specialty": "Surgery, Plastic",
+    "sub_specialty": "Plastic Surgery Within the Head & Neck"
+  },
+  "225XP0200X": {
+    "taxonomy_code": "225XP0200X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Pediatrics"
+  },
+  "2085R0001X": {
+    "taxonomy_code": "2085R0001X",
+    "role": "Physician",
+    "specialty": "Radiology",
+    "sub_specialty": "Radiation Oncology"
+  },
+  "2080B0002X": {
+    "taxonomy_code": "2080B0002X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Obesity Medicine"
+  },
+  "2083P0011X": {
+    "taxonomy_code": "2083P0011X",
+    "role": "Physician",
+    "specialty": "Preventive Medicine",
+    "sub_specialty": "Undersea and Hyperbaric Medicine"
+  },
+  "207LA0401X": {
+    "taxonomy_code": "207LA0401X",
+    "role": "Physician",
+    "specialty": "Addiction Medicine",
+    "sub_specialty": "Addiction Medicine"
+  },
+  "204E00000X": {
+    "taxonomy_code": "204E00000X",
+    "role": "Physician",
+    "specialty": "Surgery, Oral & Maxillofacial",
+    "sub_specialty": "Surgery, Oral & Maxillofacial"
+  },
+  "2084A0401X": {
+    "taxonomy_code": "2084A0401X",
+    "role": "Physician",
+    "specialty": "Addiction Medicine",
+    "sub_specialty": "Addiction Medicine"
+  },
+  "207LP3000X": {
+    "taxonomy_code": "207LP3000X",
+    "role": "Physician",
+    "specialty": "Anesthesiology",
+    "sub_specialty": "Pediatric Anesthesiology"
+  },
+  "1041C0700X": {
+    "taxonomy_code": "1041C0700X",
+    "role": "Behavioral Health",
+    "specialty": "Social Worker",
+    "sub_specialty": "Clinical"
+  },
+  "363LX0001X": {
+    "taxonomy_code": "363LX0001X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Obstetrics & Gynecology"
+  },
+  "364SP0810X": {
+    "taxonomy_code": "364SP0810X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist, Psychiatric",
+    "sub_specialty": "Mental Health, Child & Family"
+  },
+  "2083P0901X": {
+    "taxonomy_code": "2083P0901X",
+    "role": "Physician",
+    "specialty": "Preventive Medicine",
+    "sub_specialty": "Public Health & General Preventive Medicine"
+  },
+  "103TH0100X": {
+    "taxonomy_code": "103TH0100X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Health Service"
+  },
+  "152WS0006X": {
+    "taxonomy_code": "152WS0006X",
+    "role": "Physician",
+    "specialty": "Optometrist",
+    "sub_specialty": "Sports Vision"
+  },
+  "364SP0812X": {
+    "taxonomy_code": "364SP0812X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist, Psychiatric",
+    "sub_specialty": "Mental Health, Community"
+  },
+  "363LG0600X": {
+    "taxonomy_code": "363LG0600X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Gerontology"
+  },
+  "2080P0204X": {
+    "taxonomy_code": "2080P0204X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Emergency Medicine"
+  },
+  "207NP0225X": {
+    "taxonomy_code": "207NP0225X",
+    "role": "Physician",
+    "specialty": "Dermatology",
+    "sub_specialty": "Pediatric"
+  },
+  "364SI0800X": {
+    "taxonomy_code": "364SI0800X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Informatics"
+  },
+  "207VC0200X": {
+    "taxonomy_code": "207VC0200X",
+    "role": "Physician",
+    "specialty": "Obstetrics & Gynecology",
+    "sub_specialty": "Critical Care Medicine"
+  },
+  "213E00000X": {
+    "taxonomy_code": "213E00000X",
+    "role": "Physician",
+    "specialty": "Podiatrist",
+    "sub_specialty": "Podiatrist"
+  },
+  "2080P0214X": {
+    "taxonomy_code": "2080P0214X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Pulmonology"
+  },
+  "222Z00000X": {
+    "taxonomy_code": "222Z00000X",
+    "role": "Therapist",
+    "specialty": "Orthotist",
+    "sub_specialty": "Orthotist"
+  },
+  "364SG0600X": {
+    "taxonomy_code": "364SG0600X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Gerontology"
+  },
+  "364SH0200X": {
+    "taxonomy_code": "364SH0200X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Home Health"
+  },
+  "1223S0112X": {
+    "taxonomy_code": "1223S0112X",
+    "role": "Physician",
+    "specialty": "Dentist",
+    "sub_specialty": "Oral & Maxillofacial Surgery"
+  },
+  "207PE0004X": {
+    "taxonomy_code": "207PE0004X",
+    "role": "Physician",
+    "specialty": "Emergency Medicine",
+    "sub_specialty": "Emergency Medical Services"
+  },
+  "364SC1501X": {
+    "taxonomy_code": "364SC1501X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist, Community Health",
+    "sub_specialty": "Public Health"
+  },
+  "207UN0902X": {
+    "taxonomy_code": "207UN0902X",
+    "role": "Physician",
+    "specialty": "Nuclear Medicine",
+    "sub_specialty": "Nuclear Imaging & Therapy"
+  },
+  "103TE1100X": {
+    "taxonomy_code": "103TE1100X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Exercise & Sports"
+  },
+  "103TP2700X": {
+    "taxonomy_code": "103TP2700X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Psychotherapy"
+  },
+  "2080S0012X": {
+    "taxonomy_code": "2080S0012X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Sleep Medicine"
+  },
+  "224P00000X": {
+    "taxonomy_code": "224P00000X",
+    "role": "Therapist",
+    "specialty": "Prosthetist",
+    "sub_specialty": "Prosthetist"
+  },
+  "2080C0008X": {
+    "taxonomy_code": "2080C0008X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Child Abuse Pediatrics"
+  },
+  "2084V0102X": {
+    "taxonomy_code": "2084V0102X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Vascular Neurology"
+  },
+  "207XX0004X": {
+    "taxonomy_code": "207XX0004X",
+    "role": "Physician",
+    "specialty": "Surgery, Orthopedic",
+    "sub_specialty": "Foot and Ankle Surgery"
+  },
+  "2251N0400X": {
+    "taxonomy_code": "2251N0400X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Neurology"
+  },
+  "207ZP0213X": {
+    "taxonomy_code": "207ZP0213X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Pediatric Pathology"
+  },
+  "207RC0001X": {
+    "taxonomy_code": "207RC0001X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Clinical Cardiatric Electrophysiology"
+  },
+  "2080P0206X": {
+    "taxonomy_code": "2080P0206X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Gastroenterology"
+  },
+  "152W00000X": {
+    "taxonomy_code": "152W00000X",
+    "role": "Physician",
+    "specialty": "Optometrist",
+    "sub_specialty": "Optometrist"
+  },
+  "111NS0005X": {
+    "taxonomy_code": "111NS0005X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Sports Physician"
+  },
+  "364SM0705X": {
+    "taxonomy_code": "364SM0705X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Medical-Surgical"
+  },
+  "2081P2900X": {
+    "taxonomy_code": "2081P2900X",
+    "role": "Physician",
+    "specialty": "Physical Medicine & Rehabilitation",
+    "sub_specialty": "Pain Medicine"
+  },
+  "2080P0201X": {
+    "taxonomy_code": "2080P0201X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Allergy & Immunology"
+  },
+  "207Y00000X": {
+    "taxonomy_code": "207Y00000X",
+    "role": "Physician",
+    "specialty": "Otolaryngology",
+    "sub_specialty": "Otolaryngology"
+  },
+  "225XM0800X": {
+    "taxonomy_code": "225XM0800X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Mental Health"
+  },
+  "207WX0110X": {
+    "taxonomy_code": "207WX0110X",
+    "role": "Physician",
+    "specialty": "Ophthalmology",
+    "sub_specialty": "Pediatric Ophthalmology and Strabismus Specialist"
+  },
+  "207YX0901X": {
+    "taxonomy_code": "207YX0901X",
+    "role": "Physician",
+    "specialty": "Otolaryngology",
+    "sub_specialty": "Otology &Neurotology"
+  },
+  "2084N0008X": {
+    "taxonomy_code": "2084N0008X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Neuromuscular Medicine"
+  },
+  "2085N0700X": {
+    "taxonomy_code": "2085N0700X",
+    "role": "Physician",
+    "specialty": "Radiology",
+    "sub_specialty": "Neuroradiology"
+  },
+  "133VN1006X": {
+    "taxonomy_code": "133VN1006X",
+    "role": "Diet & Nutrition",
+    "specialty": "Dietician, Registered",
+    "sub_specialty": "Metabolic Nutrition"
+  },
+  "207WX0009X": {
+    "taxonomy_code": "207WX0009X",
+    "role": "Physician",
+    "specialty": "Ophthalmology",
+    "sub_specialty": "Glaucoma Specialist"
+  },
+  "207ZP0007X": {
+    "taxonomy_code": "207ZP0007X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Molecular Genetic Pathology"
+  },
+  "231HA2400X": {
+    "taxonomy_code": "231HA2400X",
+    "role": "Physician",
+    "specialty": "Audiologist",
+    "sub_specialty": "Assistive Technology Practitioner"
+  },
+  "207SG0202X": {
+    "taxonomy_code": "207SG0202X",
+    "role": "Physician",
+    "specialty": "Clinical Biochemical Genetics",
+    "sub_specialty": "Clinical Biochemical Genetics"
+  },
+  "207QH0002X": {
+    "taxonomy_code": "207QH0002X",
+    "role": "Physician",
+    "specialty": "Hospice and Palliative Medicine",
+    "sub_specialty": "Family Practice"
+  },
+  "207PS0010X": {
+    "taxonomy_code": "207PS0010X",
+    "role": "Physician",
+    "specialty": "Emergency Medicine",
+    "sub_specialty": "Sports Medicine"
+  },
+  "2088P0231X": {
+    "taxonomy_code": "2088P0231X",
+    "role": "Physician",
+    "specialty": "Urology",
+    "sub_specialty": "Pediatric Urology"
+  },
+  "152WV0400X": {
+    "taxonomy_code": "152WV0400X",
+    "role": "Physician",
+    "specialty": "Optometrist",
+    "sub_specialty": "Vision Therapy"
+  },
+  "2085U0001X": {
+    "taxonomy_code": "2085U0001X",
+    "role": "Physician",
+    "specialty": "Radiology",
+    "sub_specialty": "Diagnostic Ultrasound"
+  },
+  "207RA0000X": {
+    "taxonomy_code": "207RA0000X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Adolescent Medicine"
+  },
+  "207ZP0101X": {
+    "taxonomy_code": "207ZP0101X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Anatomic Pathology"
+  },
+  "225XG0600X": {
+    "taxonomy_code": "225XG0600X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Gerontology"
+  },
+  "363LN0000X": {
+    "taxonomy_code": "363LN0000X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Neonatal"
+  },
+  "2080I0007X": {
+    "taxonomy_code": "2080I0007X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Clinical & Laboratory Immunology"
+  },
+  "2084N0600X": {
+    "taxonomy_code": "2084N0600X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Clinical Neurophysiology"
+  },
+  "207RP1001X": {
+    "taxonomy_code": "207RP1001X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Pulmonary Disease"
+  },
+  "133VN1005X": {
+    "taxonomy_code": "133VN1005X",
+    "role": "Diet & Nutrition",
+    "specialty": "Dietician, Registered",
+    "sub_specialty": "Renal Nutrition"
+  },
+  "2084H0002X": {
+    "taxonomy_code": "2084H0002X",
+    "role": "Physician",
+    "specialty": "Hospice and Palliative Medicine",
+    "sub_specialty": "Neuropsychiatry"
+  },
+  "2083C0008X": {
+    "taxonomy_code": "2083C0008X",
+    "role": "Physician",
+    "specialty": "Preventive Medicine",
+    "sub_specialty": "Clinical Informatics"
+  },
+  "207RE0101X": {
+    "taxonomy_code": "207RE0101X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Endocrinology, Diabetes, & Metabolism"
+  },
+  "207WX0200X": {
+    "taxonomy_code": "207WX0200X",
+    "role": "Physician",
+    "specialty": "Surgery, Plastic Ophthalmic and Reconstructive",
+    "sub_specialty": "Ophthalmic Plastic and Reconstructive Surgery"
+  },
+  "363L00000X": {
+    "taxonomy_code": "363L00000X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Nurse Practitioner"
+  },
+  "2084E0001X": {
+    "taxonomy_code": "2084E0001X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Epilepsy"
+  },
+  "207PE0005X": {
+    "taxonomy_code": "207PE0005X",
+    "role": "Physician",
+    "specialty": "Undersea and Hyperbaric Medicine",
+    "sub_specialty": "Undersea and Hyperbaric Medicine"
+  },
+  "207XS0106X": {
+    "taxonomy_code": "207XS0106X",
+    "role": "Physician",
+    "specialty": "Surgery, Orthopedic",
+    "sub_specialty": "Hand Surgery"
+  },
+  "133V00000X": {
+    "taxonomy_code": "133V00000X",
+    "role": "Diet & Nutrition",
+    "specialty": "Dietician, Registered",
+    "sub_specialty": "Dietician, Registered"
+  },
+  "390200000X": {
+    "taxonomy_code": "390200000X",
+    "role": "Physician",
+    "specialty": "Student in an Organized Health Care Education/Training Program",
+    "sub_specialty": "Student in an Organized Health Care Education/Training Program"
+  },
+  "2080N0001X": {
+    "taxonomy_code": "2080N0001X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Neonatal-Perinatal Medicine"
+  },
+  "207ZP0102X": {
+    "taxonomy_code": "207ZP0102X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Anatomic Pathology & Clinical Pathology"
+  },
+  "111NX0100X": {
+    "taxonomy_code": "111NX0100X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Occupational Medicine"
+  },
+  "207ZP0105X": {
+    "taxonomy_code": "207ZP0105X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Clinical Pathology, Laboratory Medicine"
+  },
+  "207VM0101X": {
+    "taxonomy_code": "207VM0101X",
+    "role": "Physician",
+    "specialty": "Obstetrics & Gynecology",
+    "sub_specialty": "Maternal & Fetal Medicine"
+  },
+  "152WP0200X": {
+    "taxonomy_code": "152WP0200X",
+    "role": "Physician",
+    "specialty": "Optometrist",
+    "sub_specialty": "Pediatrics"
+  },
+  "2251E1200X": {
+    "taxonomy_code": "2251E1200X",
+    "role": "Therapist",
+    "specialty": "Physical Therapist",
+    "sub_specialty": "Ergonomics"
+  },
+  "2084P0805X": {
+    "taxonomy_code": "2084P0805X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Geriatric Psychiatry"
+  },
+  "363LW0102X": {
+    "taxonomy_code": "363LW0102X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Womens Health"
+  },
+  "152WC0802X": {
+    "taxonomy_code": "152WC0802X",
+    "role": "Physician",
+    "specialty": "Optometrist",
+    "sub_specialty": "Corneal and Contact Management"
+  },
+  "367A00000X": {
+    "taxonomy_code": "367A00000X",
+    "role": "Nurses",
+    "specialty": "Midwife",
+    "sub_specialty": "Certified Nurse"
+  },
+  "2083A0100X": {
+    "taxonomy_code": "2083A0100X",
+    "role": "Physician",
+    "specialty": "Preventive Medicine",
+    "sub_specialty": "Aerospace Medicine"
+  },
+  "2086X0206X": {
+    "taxonomy_code": "2086X0206X",
+    "role": "Physician",
+    "specialty": "Surgery",
+    "sub_specialty": "Surgical Oncology"
+  },
+  "2080P0216X": {
+    "taxonomy_code": "2080P0216X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Rheumatology"
+  },
+  "2084P0015X": {
+    "taxonomy_code": "2084P0015X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Psychosomatic Medicine"
+  },
+  "207XS0114X": {
+    "taxonomy_code": "207XS0114X",
+    "role": "Physician",
+    "specialty": "Surgery, Orthopedic",
+    "sub_specialty": "Adult Reconstructive Orthopaedic Surgery"
+  },
+  "2084P0804X": {
+    "taxonomy_code": "2084P0804X",
+    "role": "Physician",
+    "specialty": "Psychiatry & Neurology",
+    "sub_specialty": "Child & Adolescent Psychiatry"
+  },
+  "207RI0200X": {
+    "taxonomy_code": "207RI0200X",
+    "role": "Physician",
+    "specialty": "Internal Medicine",
+    "sub_specialty": "Infectious Disease"
+  },
+  "235Z00000X": {
+    "taxonomy_code": "235Z00000X",
+    "role": "Physician",
+    "specialty": "Speech Language Pathologist",
+    "sub_specialty": "Speech Language Pathologist"
+  },
+  "2085R0202X": {
+    "taxonomy_code": "2085R0202X",
+    "role": "Physician",
+    "specialty": "Radiology",
+    "sub_specialty": "Diagnostic Radiology"
+  },
+  "207LC0200X": {
+    "taxonomy_code": "207LC0200X",
+    "role": "Physician",
+    "specialty": "Anesthesiology",
+    "sub_specialty": "Critical Care Medicine"
+  },
+  "207V00000X": {
+    "taxonomy_code": "207V00000X",
+    "role": "Physician",
+    "specialty": "Obstetrics & Gynecology",
+    "sub_specialty": "Obstetrics & Gynecology"
+  },
+  "363AS0400X": {
+    "taxonomy_code": "363AS0400X",
+    "role": "Physician Assistant",
+    "specialty": "Surgical",
+    "sub_specialty": "Surgical"
+  },
+  "103TE1000X": {
+    "taxonomy_code": "103TE1000X",
+    "role": "Behavioral Health",
+    "specialty": "Psychologist",
+    "sub_specialty": "Educational"
+  },
+  "156FX1800X": {
+    "taxonomy_code": "156FX1800X",
+    "role": "Physician",
+    "specialty": "Optician",
+    "sub_specialty": "Optician"
+  },
+  "2088F0040X": {
+    "taxonomy_code": "2088F0040X",
+    "role": "Physician",
+    "specialty": "Urology",
+    "sub_specialty": "Female Pelvic Medicine & Reconstructive Surgery"
+  },
+  "111NI0013X": {
+    "taxonomy_code": "111NI0013X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Independent Medical Examiner"
+  },
+  "133VN1004X": {
+    "taxonomy_code": "133VN1004X",
+    "role": "Diet & Nutrition",
+    "specialty": "Dietician, Registered",
+    "sub_specialty": "Pediatric Nutrition"
+  },
+  "364SS0200X": {
+    "taxonomy_code": "364SS0200X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "School"
+  },
+  "2085R0205X": {
+    "taxonomy_code": "2085R0205X",
+    "role": "Physician",
+    "specialty": "Radiology",
+    "sub_specialty": "Radiological Physics"
+  },
+  "225XH1300X": {
+    "taxonomy_code": "225XH1300X",
+    "role": "Therapist",
+    "specialty": "Occupational Therapist",
+    "sub_specialty": "Human Factors"
+  },
+  "207ZC0006X": {
+    "taxonomy_code": "207ZC0006X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Clinical Pathology"
+  },
+  "207ZC0008X": {
+    "taxonomy_code": "207ZC0008X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Clinical Informatics"
+  },
+  "207WX0108X": {
+    "taxonomy_code": "207WX0108X",
+    "role": "Physician",
+    "specialty": "Ophthalmology",
+    "sub_specialty": "Uveitis and Ocular Inflammatory Disease"
+  },
+  "204F00000X": {
+    "taxonomy_code": "204F00000X",
+    "role": "Physician",
+    "specialty": "Surgery, Transplant",
+    "sub_specialty": "Surgery, Transplant"
+  },
+  "363LP0808X": {
+    "taxonomy_code": "363LP0808X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Mental Health"
+  },
+  "363LP0222X": {
+    "taxonomy_code": "363LP0222X",
+    "role": "Nurses",
+    "specialty": "Nurse Practitioner",
+    "sub_specialty": "Pediatrics, Critical Care"
+  },
+  "364SW0102X": {
+    "taxonomy_code": "364SW0102X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Womens Health"
+  },
+  "2080P0207X": {
+    "taxonomy_code": "2080P0207X",
+    "role": "Physician",
+    "specialty": "Pediatrics",
+    "sub_specialty": "Pediatric Hematology-Oncology"
+  },
+  "207ND0900X": {
+    "taxonomy_code": "207ND0900X",
+    "role": "Physician",
+    "specialty": "Dermatology",
+    "sub_specialty": "Dermapathology"
+  },
+  "207ZN0500X": {
+    "taxonomy_code": "207ZN0500X",
+    "role": "Physician",
+    "specialty": "Pathology",
+    "sub_specialty": "Neuropathology"
+  },
+  "2081S0010X": {
+    "taxonomy_code": "2081S0010X",
+    "role": "Physician",
+    "specialty": "Physical Medicine & Rehabilitation",
+    "sub_specialty": "Sports Medicine"
+  },
+  "364SP2800X": {
+    "taxonomy_code": "364SP2800X",
+    "role": "Nurses",
+    "specialty": "Clinical Nurse Specialist",
+    "sub_specialty": "Perioperative"
+  },
+  "208VP0014X": {
+    "taxonomy_code": "208VP0014X",
+    "role": "Physician",
+    "specialty": "Pain Medicine",
+    "sub_specialty": "Interventional Pain Medicine"
+  },
+  "111NP0017X": {
+    "taxonomy_code": "111NP0017X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Pediatric Chiropractor"
+  },
+  "133VN1201X": {
+    "taxonomy_code": "133VN1201X",
+    "role": "Diet & Nutrition",
+    "specialty": "Dietician, Registered",
+    "sub_specialty": "Obesity and Weight Management Nutrition"
+  },
+  "111NX0800X": {
+    "taxonomy_code": "111NX0800X",
+    "role": "Physician",
+    "specialty": "Chiropractor",
+    "sub_specialty": "Orthopedic"
+  },
+  "2086S0127X": {
+    "taxonomy_code": "2086S0127X",
+    "role": "Physician",
+    "specialty": "Surgery",
+    "sub_specialty": "Trauma Surgery"
+  },
+  "207WX0107X": {
+    "taxonomy_code": "207WX0107X",
+    "role": "Physician",
+    "specialty": "Ophthalmology",
+    "sub_specialty": "Retina Specialist"
+  },
+  "156FX1700X": {
+    "taxonomy_code": "156FX1700X",
+    "role": "Physician",
+    "specialty": "Ocularist",
+    "sub_specialty": "Ocularist"
+  },
+  "2081H0002X": {
+    "taxonomy_code": "2081H0002X",
+    "role": "Physician",
+    "specialty": "Physical Medicine & Rehabilitation",
+    "sub_specialty": "Hospice and Palliative Medicine"
+  }
+}
